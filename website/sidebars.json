@@ -1,0 +1,33 @@
+{
+  "docs": {
+    "Guides":[
+      "getting-started",
+      "create-app",
+      "registering",
+      "deploying",
+      "converting",
+      "authentication",
+      "triggers-actions-searches",
+      "resources",
+      "fields",
+      "z-object",
+      "bundle",
+      "environment",
+      "http",
+      "dehydration",
+      "logging",
+      "errors",
+      "testing",
+      "npm",
+      "transpilers",
+      "examples",
+      "faq",
+      "command-line-completion",
+      "upgrading"
+    ],
+    "Reference":["ref-commands","ref-schema"]
+  },
+  "docs-other": {
+    "First Category": ["doc4", "doc5"]
+  }
+}
